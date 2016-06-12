@@ -1,6 +1,6 @@
 [submodule "extras/modules/codeigniter"]
 	path = extras/modules/codeigniter
-	url = https://github.com/paolooo/puppet-codeigniter.git
+	url = https://github.com/warden1975/puppet-codeigniter.git
 [submodule "puppet"]
 	path = puppet
-	url = https://github.com/paolooo/puppet.git
+	url = https://github.com/warden1975/puppet.git
